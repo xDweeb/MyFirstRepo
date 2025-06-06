@@ -1,0 +1,1 @@
+During this course, I’ve deepened my understanding of how Linux and Git form the backbone of modern development workflows. I’ve learned to efficiently use Git for version control, work with branches, pull requests, and collaborate through forks. The hands-on tasks helped reinforce real-world practices, and I now feel more confident managing repositories both locally and remotely.
