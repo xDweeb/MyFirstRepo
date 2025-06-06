@@ -1,1 +1,5 @@
-During this course, I’ve deepened my understanding of how Linux and Git form the backbone of modern development workflows. I’ve learned to efficiently use Git for version control, work with branches, pull requests, and collaborate through forks. The hands-on tasks helped reinforce real-world practices, and I now feel more confident managing repositories both locally and remotely.
+What I have learned from this course
+
+During this course, I have learned how to use Git and GitHub to manage version control effectively. I now understand how to track changes, work with branches, make pull requests, and collaborate using forks and remote repositories.
+
+The hands-on experience helped reinforce key workflows used in real-world development, and I feel more confident using both Git commands and the GitHub platform.
