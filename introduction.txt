@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+Hello! My name is Taibi El Yakouti, a passionate and self-driven software developer and systems engineer with a strong interest in web technologies, automation, and open-source projects. I thrive in environments where innovation and problem-solving are key, and I love building things that make life easier and more efficient.
+
+I am currently active in the developer community through platforms like GitHub, LinkedIn, and my personal website (https://xdweb.engineer/). My long-term goal is to create impactful tools, contribute to open-source projects, and continuously grow as a developer through hands-on experience and collaboration.
